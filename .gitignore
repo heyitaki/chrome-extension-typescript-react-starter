@@ -1,0 +1,6 @@
+/dist/js
+/node_modules
+
+# Misc
+.DS_Store
+.env
